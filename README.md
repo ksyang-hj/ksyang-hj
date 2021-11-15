@@ -1,5 +1,7 @@
 # 👋 안녕하세요! 저는 양경석입니다.
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fksyang-hj&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 프로그램을 분석하고 보안 관점으로 해석하는 것을 즐깁니다.
 
 아이디어를 구현하고 문제를 해결하는 것에 흥미가 있습니다.
