@@ -36,15 +36,18 @@ CTF/PS 등 문제 풀이를 즐깁니다.
 - CVE-2017-11852, Microsoft Windows Kernel
 
 # ✨ 논문
+- ACM CCS 2022, Poster: Automated Discovery of Sensor Spoofing Attacks on Robotic Vehicles(Poster session), 1nd author
 - IFIP SEC 2021, QuickBCC: Quick and Scalable Binary Vulnerable Code Clone Detection, 2nd co-first author
 
 # ✨ 특허 등록
 - 10-2318714, 바이너리 코드 클론 기반 소프트웨어 취약점 탐지를 위한 컴퓨터 프로그램
 
 # 💪 주요 프로젝트
+- IITP, SW공급망 보안을 위한 SBOM 자동생성 및 무결성 검증기술 개발 (2022.03 - )
+- 국가보안연구소, 드론 보안 프로젝트, PM (2022.04 - 2022.11)
 - 국가보안연구소, 드론 보안 프로젝트, PM (2021.04 - 2021.11)
+- 정보통신기획평가원, 블록체인 보안 프로젝트 (2020.03 - 2022.12)
 - KETI, 취약점 분석 프로젝트
-- 정보통신기획평가원, 블록체인 보안 프로젝트
 - Belluminar CTF, 문제 출제
 - SSG CTF, 문제 출제
 - BoB, 윈도우 커널 취약점 분석 프로젝트
@@ -54,6 +57,7 @@ CTF/PS 등 문제 풀이를 즐깁니다.
 - 개인, 크래쉬 관리 플랫폼 개발 프로젝트
 
 # 🎤 발표
+- ACM CCS - Poster: Automated Discovery of Sensor Spoofing Attacks on Robotic Vehicles (2022)
 - IoTcube Conference - 빠르고 확장성 있는 바이너리 코드 클론 (2021)
 - IFIP SEC - QuickBCC: Quick and Scalable Binary Vulnerable Code Clone Detection (2021)
 
@@ -76,7 +80,6 @@ CTF/PS 등 문제 풀이를 즐깁니다.
 - 영어 (중급, 업무)
 
 # 📫 취미!
-- 스피드 큐브
-- 만년필 수집
-- 키보드 수집
-- 요즘은 PS -> [https://solved.ac/profile/ks8171235](https://solved.ac/profile/ks8171235)
+- 만년필, 레코드, 키보드 수집
+- PS, 워게임
+- 독서
