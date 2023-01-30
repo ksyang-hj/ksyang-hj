@@ -36,7 +36,7 @@ CTF/PS 등 문제 풀이를 즐깁니다.
 - CVE-2017-11852, Microsoft Windows Kernel
 
 # ✨ 논문
-- ACM CCS 2022, Poster: Automated Discovery of Sensor Spoofing Attacks on Robotic Vehicles(Poster session), 1nd author
+- ACM CCS 2022, Poster: Automated Discovery of Sensor Spoofing Attacks on Robotic Vehicles(Poster session), 1st author
 - IFIP SEC 2021, QuickBCC: Quick and Scalable Binary Vulnerable Code Clone Detection, 2nd co-first author
 
 # ✨ 특허 등록
